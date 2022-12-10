@@ -1,0 +1,2 @@
+aws s3 cp target/myapp-1.0.jar s3://yihangzha-a2-bucket/myapp.jar
+aws s3 cp Student.json s3://yihangzha-a2-bucket/Student.json
